@@ -5,9 +5,9 @@ import { LoadingPosts } from './LoadingPosts';
 
 function App() {
   return (
-    <div className="container p-4">
-        <LoadingPosts />
-        {/* <Posts /> */}
+    <div className='container p-4'>
+      {/* <LoadingPosts /> */}
+      <Posts />
     </div>
   );
 }
