@@ -1,2 +1,2 @@
-# React Lazy Load
+# Lazy Loading in React
 
