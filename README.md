@@ -1,3 +1,4 @@
-# Lazy Loading in React
+# Lazy Loading | React
 
 🌎 Website: https://reactlazyloading.netlify.app/
+ 
